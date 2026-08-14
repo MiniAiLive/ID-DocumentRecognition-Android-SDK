@@ -16,10 +16,10 @@ Try it out today!
 > - 10,000+ document templates covering IDs issued in 200+ countries and territories.<br>
 > - Support of 100+ languages and special characters via sophisticated neural networks.<br>
 
-## Download Latest SDK from [Here](https://drive.google.com/drive/folders/1TEhNg2QIfLHg-svYq2eFd04nY4cnE2_O?usp=drive_link)
+## Download Latest SDK from [Here](https://drive.google.com/drive/folders/1ySlFkDFJgdjvIpZ3Pm8EEvYE15gYAM2Y?usp=drive_link)
 
 ## Request trial Key
-Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get a trial License.
+Feel free to contact us on [WhatsApp](https://wa.me/+15168245948)  to get a trial License.
 
 ## Test Results
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
