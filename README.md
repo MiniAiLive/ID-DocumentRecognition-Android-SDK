@@ -18,6 +18,19 @@ Try it out today!
 
 ## Download Latest SDK from [Here](https://drive.google.com/drive/folders/1ySlFkDFJgdjvIpZ3Pm8EEvYE15gYAM2Y?usp=drive_link)
 
+## ◾IDSDK(Mobile) Details
+
+  | Basic IDSDK   | Standard IDSDK| 🔽 Advanced IDSDK |
+  |------------------|------------------|------------------|
+  | Document Detection        | Document Detection    | <b>Document Detection</b> |
+  | Recognition of ID Cards, Passports, Driver's Licenses        | Recognition of ID Cards, Passports, Driver's Licenses     | <b>Recognition of ID Cards, Passports, Driver's Licenses </b> |
+  | MRZ Recognition        | MRZ Recognition   | <b>MRZ Recognition</b> |
+  | Document Image Extraction        | Document Image Extraction     | <b>Document Image Extraction </b> |
+  | Portrait Image Extraction        | Portrait Image Extraction        | <b>Portrait Image Extraction</b> |
+  |         | UV/IR Checks for Document Liveness Detection        | <b>UV/IR Checks for Document Liveness Detection</b> |
+  |         |         | <b>Hologram Detection for ID Liveness Detection</b> |
+  |         |         | <b>NFC Recognition</b> |
+
 ## Request trial Key
 Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get a trial License.
 
