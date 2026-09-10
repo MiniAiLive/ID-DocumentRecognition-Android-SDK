@@ -19,7 +19,7 @@ Try it out today!
 ## Download Latest SDK from [Here](https://drive.google.com/drive/folders/1ySlFkDFJgdjvIpZ3Pm8EEvYE15gYAM2Y?usp=drive_link)
 
 ## Request trial Key
-Feel free to contact us on [WhatsApp](https://wa.me/+15168245948)  to get a trial License.
+Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get a trial License.
 
 ## Test Results
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
@@ -92,7 +92,7 @@ Feel free to contact us on [WhatsApp](https://wa.me/+15168245948)  to get a tria
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
 ## Contact US
-For any inquiries or questions, please contact us on [WhatsApp](https://wa.me/+15168245948).
+For any inquiries or questions, please contact us on [WhatsApp](https://wa.me/+19162702374).
 
 <p align="center">
 <a target="_blank" href="https://t.me/@assam38"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
